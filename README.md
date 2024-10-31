@@ -78,16 +78,21 @@ implement to enhance this app, if time permits.
 
 * Overview
 
-  * [ ] Analyze the movies dataset and display a summary of the most popular movies.
+  * [ ] As with any dataset you shouldn't assume that the data is 100% clean. Ensure that you understand the data and have scanned it to identify invalid column values before you start your analysis.
 
 * Basic Functionality
-  * [ ] Fetch movie data from the provided JSON files in this [Google Drive directory](https://drive.google.com/drive/folders/17cGnwfhFg3HA2e7wJLmyqGh0ue1JANWY?usp=sharing).
-    * [ ] Analyze the data to identify the most popular movies by these categories:
-      * Most popular 100 movies of all time
-      * Most popular 100 movies by critic score
-      * Most popular 100 movies by combined critic & audience score
-    * [ ] For each analysis include the appropriate summary metrics such as range of scores, mean score, average score, standard deviation, and any other metric you find to be useful.
-    * [ ] You should also include data visualizations of your choice to add value to the results. For example, a graph of the most popular 100 movies by critic plotted by some range of scores.
+
+  * Analyze the data based on several general categories to first understand the popularity of different devices and operating systems.
+    * [ ] Display a summary of the most popular devices based on user age & gender.
+    * [ ] Display a summary of the most popular Operating system types by user age & gender
+
+  * Analyze the data and provide answers for the following questions:
+    * [ ] How is the rate of battery drain impacted by device model and operating system?
+    * [ ] How is the rate of battery drain impacted by app usage time, screen on time, and data usage?
+    * [ ] Is batter drain impacted by any other category, like the number of apps or the gender of the user?
+    * [ ] Does the users age or gender impact screen on time or number of apps installed?
+    * [ ] For each analysis include the appropriate summary metrics such as range of scores, mean score, average score, standard deviation, and any other metric that supports your findings.
+    * [ ] You should also include data visualizations of your choice to add value to the results. For example, a graph of the most popular device models and operating system by user age and gender. Don't limit yourself to just this analysis though. Add visualizations for any or all of your analyses.
     * [ ] The metrics and visualizations you create should be clearly labelled and organized in a way that makes it easy for the user to understand what they are.
     * [ ] Make sure that your results are displayed in manner that's easy for the user to interpret.
 
@@ -100,12 +105,7 @@ implement to enhance this app, if time permits.
 ### Extras (Not Required)
 
 * [ ] Implement filters and search functionality to easily find specific sets of results.
-* [ ] Implement analytics for additional categories of data such as the following, or any other ones you think are useful or interesting to the user:
-  * Most popular 100 movies by year of release
-  * Most popular 100 movies by rating
-  * Most popular 100 movies by critic score
-  * Most popular 100 movies by audience score
-  * 100 movies with the widest variation between critic and audience score
+* [ ] Come up with your own questions and implement analytics for all categories of data or any combinations of categories you think are useful or interesting to the reader:
 
 ## Acceptance Criteria
 
@@ -118,7 +118,7 @@ implement to enhance this app, if time permits.
 * User Interface and Experience
 
   * [ ] The application must provide an intuitive and seamless user experience for browsing the menu and placing orders.
-  * [ ] Responsive design techniques must be used to ensure functionality across various devices and screen sizes.
+  * [ ] Responsive design techniques must be used if you are implementing a web app to ensure functionality across various devices and screen sizes.
 
 ## Acknowledgements
 
