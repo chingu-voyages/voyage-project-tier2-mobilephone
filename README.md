@@ -1,4 +1,4 @@
-# voyage-project-tier1-moviereviews
+# voyage-project-tier1-mobilephone
 
 ## Table of Contents
 
@@ -12,19 +12,21 @@
 
 Welcome, Chingu Data Scientists!
 
-Who doesn't like movies? We are lucky to live in a time where we have easy
-access to thousands of movies in many different categories or genres.
+In this day and age almost everyone has a mobile phone, and our lives seem
+to revolve around them!
 
-But, there are so many it's difficult to understand which movies are the most
-popular and to discover trends in the movie industry.
+Since mobile phones are so ubiquitious wouldn't it be interesting to explore
+how they are being used and the behaviours of their owners?
 
-In this voyage, your team will analyze a massive set of movies and reviews by
-critics to display the most popular ones. Due to the sheer volume of data to
-be processed you'll need to pay special attention to performance.
+In this voyage, your team will analyze a dataset that which provides a
+comprehensive analysis of mobile device usage patterns and user behavior
+classification. It contains 700 samples of user data, including metrics such
+as app usage time, screen-on time, battery drain, and data consumption.
 
-Happy viewing!
+Each entry is categorized into one of five user behavior classes, ranging from
+light to extreme usage, allowing for insightful analysis and modeling.
 
-![Movie Popularity Analysis](./assets/movie_review.jpg)
+![Mobile Device Usage and User Behavior Dataset](./assets/movie_review.jpg)
 
 
 ## General Instructions
@@ -58,7 +60,7 @@ implement to enhance this app, if time permits.
 - [ ] You may **_NOT_** use AI-base solution generators like GitHub CoPilot.
 - [ ] We've included a JSON files containing the raw data in the /assets directory in this repo. However, these are extremely large files so you'll need to pay attention to performance.
 - [ ] Useful links and resources:
-  - This data was obtained from the Kaggle dataset [🎬📽️The MOTHER OF ALL MOVIE REVIEW DATASETS](https://www.kaggle.com/datasets/bwandowando/rotten-tomatoes-9800-movie-critic-and-user-reviews)
+  - This data was obtained from the Kaggle dataset [Mobile Device Usage and User Behavior Dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset?resource=download)
 
 #### Styling
 
