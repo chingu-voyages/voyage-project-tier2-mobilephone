@@ -96,6 +96,8 @@ implement to enhance this app, if time permits.
     * [ ] The metrics and visualizations you create should be clearly labelled and organized in a way that makes it easy for the user to understand what they are.
     * [ ] Make sure that your results are displayed in manner that's easy for the user to interpret.
 
+  * [ ] Based on your analysis what recommendations would you make to Apple (Ios) and Google (Android) that would help them improve the appeal of devices running their operating systems?
+
 * User Interface and Experience
 
   * [ ] Ensure the application provides a seamless user experience.
