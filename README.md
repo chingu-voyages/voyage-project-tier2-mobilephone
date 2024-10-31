@@ -18,16 +18,18 @@ to revolve around them!
 Since mobile phones are so ubiquitious wouldn't it be interesting to explore
 how they are being used and the behaviours of their owners?
 
-In this voyage, your team will analyze a dataset that which provides a
-comprehensive analysis of mobile device usage patterns and user behavior
-classification. It contains 700 samples of user data, including metrics such
-as app usage time, screen-on time, battery drain, and data consumption.
+In this voyage, your team has been provided with a dataset containing a
+mobile device usage patterns and user behavior classifications. It contains 700
+samples of user-oriented metrics such as app usage time, screen-on time, 
+battery drain, and data consumption.
 
 Each entry is categorized into one of five user behavior classes, ranging from
 light to extreme usage, allowing for insightful analysis and modeling.
 
-![Mobile Device Usage and User Behavior Dataset](./assets/movie_review.jpg)
+Your task will be to use your data science skills to uncover interesting and
+meaningful relationships from this data. Read on to learn more!
 
+![Mobile Device Usage and User Behavior Dataset](./assets/user_behavior_dataset.csv)
 
 ## General Instructions
 
